@@ -37,7 +37,7 @@ warnings.filterwarnings("ignore")
 # ── Paths ──────────────────────────────────────────────────────────────────
 BASE_DIR   = Path(__file__).resolve().parent
 MODELS_DIR = BASE_DIR / "models"
-DATA_PATH  = BASE_DIR / "final_dataset.csv"
+DATA_PATH  = BASE_DIR / "1774019038452_final_dataset.csv"
 
 # ── Firebase init ──────────────────────────────────────────────────────────
 def _init_firebase():
@@ -47,8 +47,13 @@ def _init_firebase():
     if cred_env:
         cred = credentials.Certificate(json.loads(cred_env))
     else:
-        # Local dev: place serviceAccountKey.json in project root
-        cred = credentials.Certificate(BASE_DIR / "serviceAccountKey.json")
+        local_key = BASE_DIR / "serviceAccountKey.json"
+        if not local_key.exists():
+            raise RuntimeError(
+                "Firebase credentials not found. "
+                "Set FIREBASE_CREDENTIALS_JSON environment variable in Railway."
+            )
+        cred = credentials.Certificate(local_key)
     firebase_admin.initialize_app(cred)
     return fs.client()
 
