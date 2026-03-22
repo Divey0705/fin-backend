@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+groq
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+python-multipart
