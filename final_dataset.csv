@@ -1,0 +1,335 @@
+Student_Name,Age,Gender,College_name,Year_of_Study,Living_Type(Hostel / Day Scholar / PG),Part_time_job,Monthly_Income,Main_Expense_Categories,Avg_Monthly_Spending,"Save_Regularly(""yes/ no"")","Monthly_Savings(if ""no"" means (0))","Know_Budgeting(""yes/ no"")","Know_Investments(""yes/ no"")","Track_Expenses(""yes/ no"")","Borrow_Often(""yes/ no"")"
+Goutham,20,male,vtmt,4,day scholar,no,2000,transport,1800,yes,200,yes,no,yes,no
+Lokesh,20,male,vtmt,4,day scholar,no,2500,food,2000,yes,300,no,no,no,yes
+Hashwath,21,male,vtmt,4,day scholar,no,3000,petrol,3000,no,0,no,no,no,yes
+Dharani,23,male,vtmt,4,hostel,no,3000,food,3000,no,0,no,yes,no,yes
+Moieth,22,male,vtmt,4,hostel,no,2000,bus ticket,2000,no,0,yes,yes,no,yes
+Kalki,20,male,vtmt,4,hostel,no,3200,food,2000,yes,1200,no,yes,yes,no
+Akash,20,male,vtmt,4,day scholar,no,1000,petrol,1000,no,0,yes,no,no,no
+Himachalam,20,male,vtmt,4,day scholar,yes,16000,food,16000,no,0,no,no,no,no
+Aravind,21,male,vtmt,4,day scholar,no,1500,food,1300,yes,200,no,no,no,no
+Kiran,20,male,vtmt,4,day scholar,no,1000,food,500,yes,500,no,yes,no,no
+Dhanush,21,male,vtmt,4,day scholar,no,3000,shopping,1000,yes,2000,yes,yes,no,no
+Lokesh,21,male,vtmt,4,day scholar,no,4000,entertainment,4000,no,0,yes,yes,no,yes
+Dharshan,20,male,vtmt,4,day scholar,no,4100,petrol,4100,no,0,yes,no,yes,no
+Manoj,21,male,vtmt,4,day scholar,no,5000,food,2000,yes,3000,no,no,no,no
+Thamizhmaran,20,male,vtmt,4,day scholar,yes,30000,entertainment,30000,no,0,yes,yes,yes,yes
+Asarudeen,23,male,vtmt,4,pg,no,4000,rent,4000,no,0,yes,yes,yes,no
+Gowtham,21,male,vtmt,4,day scholar,no,15000,game,15000,no,0,no,yes,no,no
+Praveen,23,male,vtmt,4,pg,no,9000,rent,9000,no,0,yes,no,no,no
+Vijay,22,male,vtmt,4,day scholar,no,17000,food,7000,yes,10000,yes,no,yes,no
+Partha,21,male,vtmt,4,day scholar,no,6000,food,4000,yes,2000,no,yes,no,yes
+Chakkaravarthy,22,male,vtmt,4,pg,no,15000,rent,6000,yes,9000,yes,yes,no,no
+Sharavanah,20,male,vtmt,4,day scholar,no,2500,food,2400,no,0,yes,yes,no,no
+Rithik,21,male,vtmt,4,day scholar,no,7000,petrol,7000,no,0,no,yes,yes,no
+Santhosh,22,male,vtmt,4,day scholar,yes,10000,food,10000,no,0,no,yes,yes,no
+Vishnu,21,male,vtmt,4,day scholar,no,1000,turf,200,yes,800,yes,no,no,no
+Narain,21,male,vtmt,4,day scholar,no,1500,entertainment,1000,yes,500,yes,no,yes,no
+Jayesh,21,male,vtmt,4,day scholar,no,5000,petrol,5000,no,0,yes,yes,no,yes
+Girish,22,male,vtmt,4,day scholar,no,5000,entertainment,5000,no,0,no,no,no,yes
+Aathee,21,male,vtmt,4,hostel,yes,6000,food,6000,no,0,yes,no,no,yes
+Jeevitha,20,female,vtmt,4,hostel,no,4000,travel,2500,yes,1500,yes,no,yes,no
+Kadhir,20,male,vtmt,4,day scholar,no,4000,petrol,4000,no,0,no,no,no,no
+Mujahitha,22,female,vtmt,4,hostel,no,3000,food,2000,yes,1000,yes,yes,yes,no
+Ezhilan,20,male,vtmt,4,hostel,yes,10000,petrol,10000,no,0,yes,yes,yes,yes
+Arul,20,male,vtmt,4,hostel,yes,15000,entertainment,15000,no,0,yes,no,no,yes
+Dhivagar,21,male,vtmt,4,hostel,no,4000,food,4000,no,0,yes,no,no,no
+Ashraf,21,male,vtmt,4,hostel,no,5000,entertainment,5000,no,0,yes,no,no,yes
+Jerry,21,male,vtmt,4,day scholar,no,500,entertainment,500,no,0,yes,no,no,no
+Elamparithi,20,male,vtmt,4,day scholar,no,3000,entertainment,3000,no,0,yes,yes,no,no
+Kathir,20,male,vtmt,4,day scholar,no,3000,petrol,3000,no,0,yes,yes,yes,no
+Farhan,21,male,vtmt,4,day scholar,no,2000,food,2000,no,0,yes,no,yes,no
+Mahalakshmi,20,female,vtmt,4,day scholar,no,5000,entertainment,2000,yes,3000,yes,yes,yes,no
+Purushothaman,20,male,vtmt,4,day scholar,no,1000,petrol,1000,no,0,yes,yes,no,no
+Kingsly,20,male,vtmt,4,day scholar,no,2000,food,2000,no,0,no,no,no,no
+Venky,20,male,vtmt,4,day scholar,no,2000,transport,2000,no,0,yes,no,no,no
+Pavan,20,male,vtmt,4,day scholar,no,2000,entertainment,1000,yes,1000,yes,no,no,no
+Eljin,20,female,vtmt,4,day scholar,no,2500,food,2000,yes,500,yes,no,yes,no
+Akash,21,male,vtmt,4,hostel,yes,18000,loan,18000,no,0,no,yes,yes,yes
+Madhumitha,21,female,vtmt,4,day scholar,no,2500,food,2000,yes,500,yes,no,no,no
+Hema,20,female,vtmt,4,day scholar,no,2500,food,2000,yes,500,no,no,yes,no
+Devikaa,21,female,vtmt,4,day scholar,no,20000,petrol,20000,no,0,yes,yes,yes,no
+Amar,20,male,vtmt,4,day scholar,no,2000,food,2000,no,0,yes,no,no,no
+Bhuvanesh,21,male,vtmt,4,day scholar,no,1700,food,1700,no,0,yes,yes,no,no
+Karthick,21,male,vtmt,4,day scholar,no,1000,food,800,yes,200,yes,yes,yes,yes
+Gokul,20,male,vtmt,4,day scholar,no,1500,food,1300,yes,200,yes,no,no,no
+Godwin,20,male,vtmt,4,pg,no,7000,food,6500,yes,500,yes,yes,no,yes
+Bhuvan,19,male,vtmt,4,pg,no,5000,petrol,3000,yes,2000,yes,no,no,no
+Keerthana,20,female,vtmt,4,hostel,no,2500,transport,2000,yes,500,no,no,yes,no
+Baranidharan,20,male,vtmt,4,pg,no,12000,rent,12000,no,0,no,yes,no,yes
+Gopal,22,male,vtmt,4,day scholar,no,4000,others,4000,no,0,yes,no,no,no
+Jayasoorya,20,male,vtmt,4,hostel,no,2000,food,2000,no,0,yes,no,no,no
+Dhanush,20,male,vtmt,4,day scholar,no,1500,food,1500,no,0,no,no,no,no
+Krishna,20,male,vtmt,4,day scholar,no,3000,petrol,3000,no,0,yes,no,no,no
+Kishore,23,male,vtmt,4,pg,no,5000,food,5000,no,0,no,yes,no,no
+Kishore,19,male,vtmt,3,day scholar,no,3000,food,3000,no,0,yes,yes,no,yes
+Naveenbalaji,20,male,vtmt,4,day scholar,no,1000,petrol,1000,no,0,yes,no,no,no
+Sam,20,male,vtmt,4,day scholar,no,1000,others,1000,no,0,yes,yes,yes,no
+Surendra,21,male,vtmt,4,day scholar,no,2500,petrol,2500,no,0,no,yes,yes,yes
+Rohan,20,male,vtmt,4,day scholar,no,1000,petrol,1000,no,0,yes,yes,no,no
+Mugilan,20,male,vtmt,4,pg,no,8000,rent,8000,no,0,yes,no,no,yes
+Raji,21,female,vtmt,4,day scholar,no,4000,food,3500,yes,500,no,no,no,yes
+Raju,20,male,vtmt,4,day scholar,no,4000,food,3000,yes,1000,yes,yes,no,no
+Naveen,20,male,vtmt,4,day scholar,no,4000,food,4000,no,0,no,no,no,no
+Sanjay,20,male,vtmt,4,day scholar,no,5000,entertainment,4000,yes,1000,yes,yes,no,no
+Vishal,20,male,vtmt,4,day scholar,no,7500,petrol,7000,yes,500,no,no,no,no
+Muthu,20,male,vtmt,4,pg,yes,20000,food,20000,no,0,no,no,yes,yes
+Siva,20,male,vtmt,4,day scholar,no,1000,food,200,yes,800,yes,no,no,no
+Nitheesh,21,male,vtmt,4,day scholar,no,10000,petrol,9000,yes,1000,yes,no,no,no
+Rishi,21,male,vtmt,4,day scholar,no,3000,food,3000,no,0,no,no,yes,yes
+Vasanth,21,male,vtmt,4,pg,no,1000,food,500,yes,500,yes,yes,no,no
+Surya,21,male,vtmt,4,day scholar,no,3000,food,3000,no,0,no,yes,no,no
+Ram,20,male,vtmt,4,pg,yes,20000,rent,10000,yes,10000,yes,yes,yes,no
+Mohana,20,male,vtmt,4,pg,yes,10000,food,10000,no,0,yes,yes,yes,no
+Rithish,20,male,vtmt,4,day scholar,no,3000,petrol,3000,no,0,no,no,no,no
+Raaj,20,male,vtmt,4,pg,yes,8000,others,8000,no,0,no,yes,yes,yes
+Prem,20,male,vtmt,4,pg,no,5000,food,5000,no,0,yes,no,no,yes
+Venkatraj,20,male,vtmt,4,pg,no,7000,food,6500,yes,500,yes,yes,no,no
+Rithika,20,female,vtmt,4,hostel,no,3000,others,2000,yes,1000,yes,yes,no,no
+Nivetha,21,female,vtmt,4,hostel,no,2000,others,2000,no,0,yes,no,yes,no
+Nandhini,21,female,vtmt,4,day scholar,no,2000,food,2000,no,0,no,yes,yes,no
+Sumithra,21,female,vtmt,4,day scholar,no,1500,entertainment,1500,no,0,no,no,no,no
+Sarayanya,21,female,vtmt,4,hostel,no,2000,food,1000,yes,1000,no,no,yes,no
+Suryavathany,20,female,vtmt,4,hostel,no,4000,others,4000,no,0,yes,no,yes,no
+Priyanka,20,female,vtmt,4,day scholar,no,1000,others,500,yes,500,no,no,yes,no
+Shaheer,20,male,vtmt,4,pg,no,10000,rent,9000,yes,1000,yes,no,yes,no
+Shameera,22,female,vtmt,4,day scholar,yes,40000,food,30000,yes,10000,no,no,yes,no
+Mohana,22,female,vtmt,4,hostel,no,6000,food,6000,no,0,no,yes,no,no
+Rajashree,20,female,vtmt,4,day scholar,no,3000,food,3000,no,0,no,yes,no,no
+Pavithra,20,female,vtmt,4,day scholar,no,1000,others,1000,no,0,no,no,no,no
+Sangamithra,21,female,vtmt,4,day scholar,no,1200,food,1200,no,0,no,no,no,no
+Harini,21,female,vtmt,4,day scholar,no,1000,transport,1000,no,0,yes,yes,yes,no
+Dillibabu,20,male,vtmt,4,day scholar,yes,12000,petrol,11000,yes,1000,no,yes,no,no
+Romel,21,male,vtmt,4,day scholar,no,7000,others,7000,no,0,no,no,no,yes
+Chandra,21,male,vtmt,4,day scholar,yes,7000,petrol,7000,yes,1500,yes,yes,yes,no
+Isaac,21,male,vtmt,4,hostel,no,10000,food,10000,no,0,no,no,no,no
+Kanishkan,20,male,vtmt,4,day scholar,no,3500,petrol,3500,no,0,no,yes,no,yes
+Sukesh,20,male,vtmt,4,hostel,no,2000,food,2000,no,0,yes,no,no,yes
+Sakthi,20,male,vtmt,4,hostel,no,3000,food,2500,yes,500,no,no,no,yes
+Nandhakumar,20,male,vtmt,4,day scholar,yes,3000,food,3000,no,0,no,no,no,no
+Mohammad,21,male,vtmt,4,pg,yes,14000,rent,12000,yes,2000,yes,yes,no,no
+Sathish,22,male,vtmt,4,pg,no,15000,rent,15000,no,0,yes,no,no,no
+Mohammad,19,male,vtmt,4,pg,yes,18000,rent,18000,no,0,no,no,no,yes
+Arachana,22,female,vtmt,4,hostel,no,2000,entertainment,1000,yes,1000,yes,no,yes,no
+Shrinidhi',21,female,vtmt,4,hostel,no,4000,dress,2500,yes,1500,yes,no,no,no
+Vishrudhi,21,female,vtmt,4,hostel,no,3000,food,3000,no,0,yes,no,no,no
+Nisha,21,female,vtmt,4,hostel,no,7000,dress,5000,yes,2000,yes,yes,yes,no
+David,20,male,vtmt,4,day scholar,no,4000,petrol,4000,no,0,yes,no,no,no
+Dilip,20,male,vtmt,4,hostel,no,5000,food,4500,yes,500,yes,yes,yes,no
+Keerthivasan,20,male,vtmt,4,day scholar,no,2500,food,2500,no,0,yes,no,no,no
+Satvi,20,female,vtmt,4,hostel,no,3000,food,2000,yes,0,no,yes,yes,no
+Keziya,20,female,vtmt,4,hostel,no,3000,others,2500,yes,500,no,no,yes,no
+Harshini,21,female,vtmt,4,hostel,no,5000,dress,4000,yes,1000,yes,yes,no,no
+Stanly,22,male,vtmt,4,day scholar,no,4000,petrol,3000,yes,1000,yes,yes,yes,no
+Usman,21,male,vtmt,4,day scholar,no,2000,transport,2000,no,0,yes,no,no,no
+Abdhul,20,male,vtmt,4,hostel,no,5000,food,5000,no,0,no,no,no,no
+Niranjan,21,male,vtmt,4,hostel,no,3000,food,2500,yes,500,yes,yes,no,no
+Dinesh,21,male,vtmt,4,pg,yes,9000,petrol,9000,no,0,no,no,no,yes
+Roslin,21,female,vtmt,4,hostel,no,6000,petrol,6000,no,0,no,yes,yes,no
+Harini,21,female,vtmt,4,hostel,no,1500,food,1300,yes,200,yes,no,yes,no
+Valsan,21,male,vtmt,4,day scholar,no,3000,transport,3000,no,0,yes,no,no,no
+Daisy,20,female,vtmt,4,hostel,no,5000,food,3000,yes,2000,yes,no,yes,no
+Sridevi,20,female,vtmt,4,day scholar,no,5000,food,2000,yes,3000,yes,no,yes,no
+Girish,21,male,vtmt,3,hostel,yes,6000,entertainment,6000,no,0,no,no,no,yes
+Lalith,21,male,vtmt,4,day scholar,yes,5000,entertainment,5000,no,0,no,no,no,yes
+Manu,20,female,vtmt,4,hostel,no,1000,others,1000,no,0,yes,no,yes,no
+Jeeva,20,male,vtmt,4,day scholar,no,1000,others,1000,no,0,yes,yes,no,no
+Ragavan,21,male,vtmt,4,hostel,no,1000,food,500,yes,500,yes,yes,yes,no
+Vaishnavi,20,female,vtmt,4,day scholar,no,2000,dress,2000,no,0,yes,no,no,no
+Sharmila,20,female,vtmt,4,day scholar,no,1000,others,500,yes,500,yes,yes,no,no
+Bhusparekha,23,female,vtmt,4,day scholar,no,6000,transport,5500,yes,500,yes,yes,yes,no
+Divyesh,21,male,vtmt,4,day scholar,no,2500,petrol,2500,no,0,yes,no,no,no
+Janaki,20,female,vtmt,4,day scholar,no,2000,others,2000,no,0,no,no,no,no
+Mithra,21,female,vtmt,4,hostel,no,2000,food,1500,yes,500,yes,no,no,no
+Arul,20,male,vtmt,4,hostel,no,5000,food,5000,no,0,yes,no,no,no
+Ajay,20,male,srm,3,day scholar,no,5000,food,3500,yes,1500,no,yes,no,m
+Devdharshan,19,male,srm,2,day scholar,no,1500,food,1500,no,0,yes,yes,no,no
+Ferran,18,male,srm,2,day scholar,no,1000,food,1000,no,0,no,no,no,no
+Jai,18,male,srm,2,pg,no,7500,food,7500,no,0,no,no,no,no
+Kavin,18,male,srm,2,day scholar,no,6000,food,6000,no,0,no,yes,no,no
+Kavin,20,male,srm,3,day scholar,no,10000,petrol,10000,no,0,no,yes,no,no
+Nandhini,19,female,srm,3,day scholar,no,15000,petrol,15000,no,0,no,no,no,no
+Karishma,19,female,srm,3,day scholar,no,20000,petrol,20000,no,0,no,no,no,no
+Karthick,18,male,srm,2,day scholar,no,3000,food,3000,no,0,no,no,no,yes
+Manothaya,18,male,srm,2,day scholar,no,3000,entertainment,3000,no,0,no,no,no,yes
+Sharmila,18,female,srm,2,day scholar,no,3000,transport,3000,no,0,no,no,no,yes
+Nithiya,18,female,srm,2,day scholar,no,4000,transport,3500,yes,500,no,no,yes,yes
+Jaya,18,male,srm,2,hostel,no,9000,food,9000,no,0,no,yes,no,no
+Lingesh,19,male,srm,2,hostel,no,8000,food,8000,no,0,yes,no,no,no
+Shelton,18,male,srm,1,hostel,no,7000,food,3000,yes,4000,yes,yes,no,no
+Darla,18,female,srm,1,day scholar,no,1000,others,1000,no,0,no,no,no,no
+Yuvaraj,18,male,srm,2,day scholar,no,2000,transport,1500,no,500,no,no,no,no
+Vishwa,18,male,srm,2,day scholar,no,1000,food,1000,no,0,no,no,no,yes
+Vignesh,19,male,srm,2,day scholar,no,4000,others,3500,yes,500,no,yes,no,no
+Vishal,19,male,srm,2,day scholar,no,2000,food,2000,no,0,yes,no,no,no
+Vijay,18,male,srm,2,day scholar,no,5000,others,5000,no,0,no,yes,no,yes
+Thilak,17,male,srm,1,hostel,no,3000,food,3000,no,0,no,no,no,no
+Justin,18,male,srm,1,day scholar,no,5000,petrol,5000,no,0,no,no,no,no
+Sivaneshwaran,18,male,srm,1,day scholar,no,3000,transport,2500,yes,500,no,yes,yes,no
+Sanjai,17,male,srm,1,day scholar,no,7000,transport,6000,yes,1000,yes,no,no,no
+Karthika,17,female,srm,1,day scholar,yes,9500,food,1500,yes,8000,yes,no,yes,no
+Aravind,21,male,srm,2,pg,no,13000,food,13000,no,0,no,yes,no,no
+Mirthika,18,female,srm,2,day scholar,no,10000,others,7000,yes,3000,yes,no,yes,no
+Bharath,18,male,srm,2,day scholar,no,5000,transport,4300,yes,700,yes,yes,no,no
+Sanjay,18,male,srm,1,day scholar,no,7000,others,7000,no,0,no,yes,no,no
+Adam,18,male,srm,1,day scholar,no,5000,others,5000,no,0,no,no,no,no
+Nithish,18,male,srm,1,day scholar,yes,10000,gym,10000,no,0,no,yes,no,no
+Harish,20,male,srm,4,day scholar,yes,20000,entertainment,20000,no,0,yes,yes,yes,no
+Dharshini,17,female,srm,1,day scholar,yes,5000,food,4500,yes,500,yes,no,no,no
+Jeevana,17,female,srm,1,day scholar,no,4000,food,4000,no,0,no,yes,no,no
+Swetha,17,female,srm,1,hostel,no,3500,food,3500,no,0,yes,no,no,yes
+Sahana,17,female,srm,1,hostel,no,5000,food,3000,yes,2000,yes,yes,no,no
+Anish,17,male,srm,1,hostel,no,10000,food,8000,yes,2000,no,no,no,no
+Aaish,18,male,srm,1,day scholar,no,10000,entertainment,10000,no,0,no,no,no,no
+Rudhran,18,male,srm,1,day scholar,no,1000,dress,1000,no,0,yes,no,yes,yes
+Narain,18,male,srm,1,day scholar,no,1500,food,1500,no,0,yes,no,no,no
+Tawshik,18,male,srm,1,day scholar,no,5000,entertainment,2500,yes,2500,yes,no,no,no
+Sanjay,18,male,srm,1,day scholar,no,1500,entertainment,1500,no,0,yes,no,no,no
+Keerthi,18,female,srm,1,day scholar,no,2000,food,2000,no,0,no,no,no,yes
+Divya,18,female,srm,1,pg,no,7000,food,7000,no,0,yes,no,yes,yes
+Yuvasri,17,female,srm,1,day scholar,no,1500,food,1500,no,0,no,no,no,yes
+Mithun,18,male,srm,1,day scholar,no,3000,petrol,2800,yes,200,no,yes,no,no
+Dinesh,17,male,srm,1,pg,no,6700,rent,6700,no,0,no,no,yes,no
+Prethish,18,male,srm,1,day scholar,no,3000,food,3000,no,0,no,yes,yes,yes
+Deepak,18,male,srm,1,day scholar,no,2000,transport,1800,yes,200,yes,yes,yes,no
+Sathish,17,male,srm,1,day scholar,no,2000,gym,2000,no,0,yes,no,no,no
+Kishore,17,male,srm,1,day scholar,no,2000,petrol,1500,yes,500,yes,no,no,yes
+Dhaniyashree,18,female,srm,1,day scholar,no,500,food,400,yes,100,yes,yes,yes,no
+Mouriya,18,female,srm,1,day scholar,no,800,food,700,yes,100,no,no,no,no
+Nithiya,19,female,srm,1,day scholar,no,1000,food,800,yes,200,no,no,no,no
+Hansika,18,female,srm,1,hostel,no,5000,food,3500,yes,1500,yes,no,no,no
+Hemanth,17,male,srm,1,day scholar,no,3000,food,2600,yes,400,no,no,no,no
+Thulasidharan,17,male,srm,1,day scholar,no,4000,food,3500,yes,500,no,yes,no,no
+Sanjana,18,female,srm,1,hostel,no,3000,food,3000,no,0,no,no,yes,no
+Rahhul,18,male,srm,1,day scholar,no,2500,petrol,2500,no,0,yes,no,no,no
+Sanjana,17,female,srm,1,day scholar,no,5000,food,3000,yes,2000,no,no,no,no
+Krithik,19,male,srm,2,day scholar,no,9000,food,9000,no,0,no,yes,no,yes
+Kavi,18,female,srm,2,day scholar,no,7000,transport,7000,no,0,no,yes,no,no
+Karthick,18,male,srm,2,day scholar,no,1000,petrol,1000,no,0,yes,yes,no,no
+Akash,19,male,srm,2,day scholar,no,2000,food,2000,no,0,yes,yes,no,no
+Gokul,19,male,srm,2,day scholar,no,14000,petrol,8000,yes,6000,no,yes,no,no
+Mukund,19,male,srm,2,day scholar,no,2000,transport,1500,yes,500,yes,yes,no,no
+Arro,19,male,srm,2,pg,no,15000,rent,12500,yes,2500,yes,yes,no,yes
+Santhosh,19,male,srm,2,hostel,no,1500,food,1500,no,0,yes,yes,yes,no
+Ashwath,19,male,srm,2,day scholar,no,1000,petrol,800,yes,200,yes,no,no,no
+Vaibhav,19,male,srm,2,day scholar,no,300,food,300,no,0,yes,yes,yes,no
+Hasvand,18,male,srm,2,day scholar,no,1000,food,300,yes,700,yes,no,no,no
+Parkavan,18,male,srm,2,hostel,no,2000,others,1500,yes,500,yes,no,no,no
+Preetha,20,female,srm,2,day scholar,yes,4000,shopping,3000,yes,1000,no,no,no,no
+Arumugam,19,male,srm,2,day scholar,no,4000,food,2000,yes,2000,no,yes,yes,yes
+Ashwin,18,male,srm,1,day scholar,yes,6000,others,5000,yes,1000,no,no,no,yes
+Pushkar,17,male,srm,1,day scholar,no,5000,others,5000,no,0,no,no,no,no
+Abishek,17,male,srm,1,day scholar,no,4500,petrol,4500,no,0,no,no,no,no
+Prithika,20,female,srm,3,day scholar,no,10000,food,10000,no,0,yes,yes,yes,no
+Varsha,19,female,srm,3,day scholar,no,5000,shopping,5000,no,0,no,no,no,no
+Pushpitha,19,female,srm,3,day scholar,no,3000,food,2000,yes,1000,yes,yes,yes,no
+Priyanka,20,female,srm,3,day scholar,no,500,food,400,yes,100,no,no,no,no
+Mesiya,20,female,srm,3,day scholar,no,1500,food,1500,no,0,no,no,no,no
+Rogithh,19,male,srm,3,day scholar,no,1000,others,500,yes,500,yes,yes,no,no
+Jenifer,19,female,srm,3,day scholar,no,1000,others,600,yes,400,no,no,no,no
+Rajalakshmi,20,female,srm,3,day scholar,no,1000,transport,600,yes,400,yes,no,no,no
+Harshavarthan,17,male,srm,1,day scholar,no,3000,food,2000,yes,1000,no,yes,no,no
+Philip,19,male,srm,1,day scholar,no,500,entertainment,500,no,0,no,no,no,no
+Venika,19,female,srm,2,day scholar,yes,4000,shopping,1500,yes,500,yes,yes,yes,yes
+Shashini,18,female,srm,2,day scholar,no,1000,shopping,500,yes,500,yes,yes,no,no
+Rubitha,19,female,srm,2,day scholar,no,3000,transport,2500,yes,500,yes,no,no,no
+Saksham,18,male,srm,2,pg,no,15000,rent,15000,no,0,no,no,no,no
+Pravith,20,male,srm,2,pg,no,20000,rent,20000,no,0,yes,no,no,no
+Amrit,19,male,srm,2,day scholar,no,5000,food,4500,yes,500,no,no,no,no
+Nithish,21,male,srm,3,day scholar,no,2000,petrol,1300,yes,700,no,no,yes,yes
+Yuvan,19,male,srm,3,day scholar,no,20000,others,20000,no,0,no,no,no,no
+Jayakumar,19,male,srm,3,day scholar,no,8000,food,8000,no,0,no,no,no,yes
+Kevin,19,male,srm,3,day scholar,yes,20000,food,20000,no,0,no,no,no,no
+Kavin,21,male,srm,3,day scholar,no,10000,others,10000,no,0,no,yes,no,yes
+Hari,20,male,srm,3,day scholar,no,8000,others,8000,no,0,no,yes,no,no
+Sriram,19,male,srm,3,day scholar,no,15000,food,15000,no,0,no,no,no,no
+Lakshitha,17,female,srm,1,day scholar,no,2000,food,2000,no,0,yes,yes,no,no
+Preethi,17,female,srm,1,day scholar,no,2000,food,2000,no,0,yes,no,no,no
+Akashya,18,female,srm,1,day scholar,no,1500,transport,1500,no,0,yes,yes,yes,no
+Thishya,18,female,srm,1,day scholar,no,3000,transport,2500,yes,500,yes,no,no,no
+Shivani,21,female,srm,4,day scholar,no,3000,food,3000,no,0,yes,yes,no,no
+Harini,22,female,srm,4,hostel,no,5000,food,5000,no,0,no,yes,no,no
+Brakathi,22,female,srm,4,hostel,no,4000,food,3000,yes,1000,yes,no,no,no
+Sathvik,21,male,srm,4,day scholar,no,10000,food,8000,yes,2000,yes,yes,yes,no
+Anika,20,female,srm,4,day scholar,yes,10000,shopping,10000,no,0,no,no,no,no
+Advika,20,female,srm,4,day scholar,no,5000,food,2000,yes,3000,yes,no,no,no
+Fawwaz,21,male,srm,4,day scholar,no,6000,food,5000,no,1000,yes,no,yes,no
+Adithya,20,male,srm,4,day scholar,no,5000,food,5000,no,0,yes,yes,yes,no
+Christana,18,female,srm,2,day scholar,no,500,food,500,no,0,no,no,no,no
+Ramkumar,18,male,srm,2,day scholar,yes,13000,others,13000,no,0,no,no,no,no
+Rithika,18,female,srm,1,day scholar,no,1500,food,700,yes,800,no,yes,no,yes
+Madhumithra,18,female,srm,1,day scholar,no,1000,food,800,yes,200,no,no,yes,no
+Naren,18,male,srm,1,day scholar,no,750,transport,750,no,0,yes,yes,no,yes
+Aadi,18,male,srm,1,day scholar,no,500,food,500,no,0,yes,yes,no,no
+Hima,18,female,srm,1,day scholar,no,750,food,500,yes,250,yes,yes,no,no
+Taran,18,male,srm,1,day scholar,no,3000,transport,2500,yes,500,no,yes,no,no
+Anas,18,male,srm,1,pg,no,10000,food,8000,yes,2000,no,yes,no,no
+Aayan,17,male,srm,1,pg,no,10000,food,9500,no,500,yes,yes,no,no
+Chouhan,18,male,srm,1,day scholar,no,5000,food,5000,no,0,yes,yes,no,no
+Vinay,17,male,srm,1,day scholar,no,3000,transport,2000,yes,1000,yes,yes,no,no
+Manish,20,male,srm,2,day scholar,no,20000,petrol,20000,no,0,no,yes,no,no
+Ankit,18,male,srm,1,pg,yes,9000,rent,9000,no,0,no,yes,yes,yes
+Arunmohan,18,male,srm,1,pg,yes,20000,food,20000,no,0,yes,no,no,no
+Rakshit,18,male,srm,1,pg,no,16000,rent,15000,yes,1000,yes,yes,yes,no
+Waibhav,18,male,srm,1,day scholar,no,4000,transport,4000,no,0,no,no,yes,no
+Prajhushaa,18,female,srm,1,day scholar,no,2000,transport,1500,yes,500,no,no,yes,no
+Deekshana,18,female,srm,1,day scholar,no,2500,food,1000,yes,500,yes,no,no,no
+Agilan,17,male,srm,1,day scholar,no,1000,food,700,yes,300,yes,yes,no,no
+Pranav,18,male,srm,1,day scholar,no,2000,food,2000,no,0,yes,no,no,no
+Abishek,18,male,srm,1,day scholar,no,500,food,200,yes,300,yes,no,yes,no
+Abishek,17,male,srm,1,day scholar,no,5000,food,5000,no,0,yes,yes,yes,no
+Tharun,17,male,srm,1,day scholar,no,6000,others,5000,yes,1000,yes,no,yes,no
+Santhosh,17,male,srm,1,day scholar,no,10000,food,10000,no,0,no,no,no,no
+Akash,17,male,srm,1,day scholar,no,10000,petrol,10000,no,0,no,no,no,no
+Tharun,18,male,srm,1,day scholar,no,12000,petrol,10000,yes,2000,no,no,no,no
+Niranjan,18,male,srm,1,day scholar,no,1000,petrol,500,yes,500,no,no,no,no
+Kalvin,18,male,srm,1,pg,no,10000,rent,7000,yes,3000,no,no,no,no
+Anbu,17,male,srm,1,day scholar,no,1500,food,1500,no,0,yes,no,no,no
+Akash,17,male,srm,1,day scholar,no,8000,food,8000,no,0,yes,no,no,yes
+Sanjana,18,female,srm,1,day scholar,no,10000,transport,10000,no,0,no,yes,no,no
+Abhi,18,male,srm,1,day scholar,no,1000,food,500,yes,500,yes,yes,no,no
+Pradeesh,18,male,srm,1,day scholar,no,2000,transport,1500,yes,500,yes,no,no,no
+Hari,18,male,srm,1,pg,no,4000,food,3800,yes,200,yes,no,no,no
+Ajaylin,17,male,srm,1,day scholar,no,2000,food,1100,yes,900,yes,no,yes,no
+Anirudh,18,male,srm,1,day scholar,no,1000,food,1000,no,0,yes,yes,no,no
+Naveen,17,male,srm,1,day scholar,no,1000,food,500,yes,500,no,no,no,no
+Movind,17,male,srm,1,day scholar,no,1500,entertainment,1500,no,0,no,no,no,no
+Kavya,18,female,srm,1,day scholar,no,1000,food,500,yes,500,yes,no,no,no
+Menaga,17,female,srm,1,day scholar,no,1000,transport,1000,no,0,no,no,no,no
+Arabhi,18,female,srm,1,day scholar,no,3000,food,2000,yes,1000,no,no,yes,no
+Dakshana,17,female,srm,1,pg,no,25000,food,23000,yes,2000,no,no,yes,no
+Rishi,21,male,vtmt,4,day scholar,no,2500,food,2500,no,0,no,yes,yes,yes
+Abishek,20,male,vtmt,3,hostel,no,2500,food,2500,no,0,no,no,no,no
+Kamalesh,19,male,vtmt,2,day scholar,no,6000,transport,6000,yes,500,no,yes,no,no
+Divyadhanush,20,male,sathyabama,4,day scholar,no,500,food,1500,no,500,no,yes,no,yes
+Monica,21,female,vtmt,4,day scholar,yes,500,others,500,yes,500,no,no,no,no
+Harini,18,female,velammal,2,day scholar,no,1500,others,2500,no,0,no,no,no,no
+Dharshanaa,21,female,avinashilingam,3,day scholar,no,10000,shopping,1500,yes,1500,yes,yes,yes,no
+Charumathi,21,female,chellammal,4,day scholar,yes,10000,shopping,500,yes,1500,yes,yes,yes,no
+Vishmah,21,female,vtmt,4,hostel,no,500,entertainment,500,yes,500,yes,no,yes,no
+Philip,20,male,karunya,4,hostel,no,500,food,3500,no,0,no,no,no,yes
+Anju,20,female,apollo,3,day scholar,yes,3500,food,2500,yes,500,yes,no,no,no
+Asha,20,female,tamilnadu,1,day scholar,no,3500,transport,1500,yes,500,yes,yes,yes,no
+Gautham,20,male,vcri,3,hostel,no,1500,others,1500,yes,1500,yes,no,no,no
+Arul,20,male,vtmt,4,hostel,yes,3500,food,3500,no,0,no,no,no,no
+Gowsik.m,18,male,vtmt,2,hostel,no,1500,others,2500,no,0,no,no,no,no
+Harini,21,female,bharathi,3,day scholar,no,500,food,500,yes,6000,yes,yes,no,no
+Himani,20,female,bharathi,1,day scholar,no,500,transport,1500,no,0,no,no,no,no
+Rahul,20,male,vtmt,4,pg,yes,10000,others,10000,yes,10000,yes,yes,yes,yes
+Prathibha,18,female,agni,2,day scholar,no,1500,shopping,2500,yes,1500,yes,yes,yes,no
+Narain,21,male,vtmt,4,day scholar,no,1500,entertainment,500,yes,500,no,no,yes,no
+Joy,21,female,dr.sivanthi,4,day scholar,no,3500,transport,1500,yes,500,yes,yes,yes,no
+Jeevanathan.k,18,male,vtmt,2,day scholar,no,500,transport,2500,no,0,no,yes,no,no
+Dhanush,20,male,agni,4,day scholar,yes,6000,entertainment,6000,no,0,yes,yes,yes,no
+Reema,21,female,justice,3,day scholar,no,500,others,10000,yes,500,yes,yes,yes,yes
+Kalpana,19,female,velammal,2,day scholar,no,1500,others,2500,no,0,no,no,no,yes
+Manoj,21,male,vtmt,4,day scholar,no,10000,shopping,3500,no,1500,no,no,no,no
+Mukilvanan,20,male,agni,4,day scholar,yes,6000,others,500,yes,500,yes,yes,yes,no
+Thendral,21,female,agni,4,day scholar,no,1500,food,1500,yes,0,yes,no,no,no
+Shalini,22,female,sri,4,day scholar,no,500,shopping,500,yes,500,yes,yes,yes,no
+Faretha,20,female,govindammal,3,day scholar,no,10000,others,2500,yes,1500,yes,yes,yes,no
+Giridharan.s,23,male,vtmt,4,day scholar,yes,10000,transport,6000,yes,3500,yes,yes,no,yes
+Selva,19,female,vtmt,2,day scholar,no,1500,shopping,500,yes,0,yes,yes,yes,yes
+Jeya,21,male,saveetha,4,day scholar,no,500,entertainment,500,yes,500,yes,yes,yes,yes
+Regina,20,female,st.antony's,1,day scholar,no,500,shopping,500,yes,500,yes,no,yes,no
+Sashangan,20,male,vtmt,4,day scholar,no,500,food,500,no,0,no,no,no,no
