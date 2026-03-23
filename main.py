@@ -37,7 +37,7 @@ warnings.filterwarnings("ignore")
 # ── Paths ──────────────────────────────────────────────────────────────────
 BASE_DIR   = Path(__file__).resolve().parent
 MODELS_DIR = BASE_DIR / "models"
-DATA_PATH  = BASE_DIR / "final_dataset.csv"
+DATA_PATH  = BASE_DIR / "1774019038452_final_dataset.csv"
 
 # ── Firebase init ──────────────────────────────────────────────────────────
 def _init_firebase():
@@ -421,8 +421,14 @@ def add_expense(req: ExpenseRequest):
 @app.get("/expenses/{user_id}")
 def get_expenses(user_id: str, limit: int = Query(50, le=200)):
     db = get_db()
-    docs = db.collection("expenses").where("user_id", "==", user_id).order_by("created_at", direction=fs.Query.DESCENDING).limit(limit).get()
-    expenses = [d.to_dict() for d in docs]
+    # ✅ No order_by — avoids Firestore composite index requirement
+    docs = db.collection("expenses").where("user_id", "==", user_id).limit(200).get()
+    # Sort in Python instead
+    expenses = sorted(
+        [d.to_dict() for d in docs],
+        key=lambda x: x.get("created_at", ""),
+        reverse=True
+    )[:limit]
 
     today      = datetime.now().strftime("%Y-%m-%d")
     this_month = datetime.now().strftime("%Y-%m")
@@ -481,10 +487,11 @@ def get_feed(
     tag:    Optional[str]   = Query(None),
 ):
     db    = get_db()
-    docs  = db.collection("posts").order_by("created_at", direction=fs.Query.DESCENDING).limit(200).get()
+    all_docs = db.collection("posts").limit(200).get()
+    docs = sorted(all_docs, key=lambda x: x.to_dict().get("created_at", ""), reverse=True)
     result = []
     for doc in docs:
-        p    = doc.to_dict()
+        p    = doc.to_dict() if hasattr(doc, 'to_dict') else doc
         dist = None
         if lat and lon and p.get("latitude") and p.get("longitude"):
             dist = round(_haversine(lat, lon, p["latitude"], p["longitude"]), 1)
