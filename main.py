@@ -449,6 +449,32 @@ def get_expenses(user_id: str, limit: int = Query(50, le=200)):
     }
 
 # ═══════════════════════════════════════════════════════════════════════════
+
+# BUDGET LIMITS
+# =============
+
+class BudgetLimitsRequest(BaseModel):
+    user_id: str
+    budgets: dict
+
+@app.post("/budget/save")
+def save_budget(req: BudgetLimitsRequest):
+    db = get_db()
+    db.collection("budgets").document(req.user_id).set({
+        "user_id":    req.user_id,
+        "budgets":    req.budgets,
+        "updated_at": datetime.now().isoformat(),
+    })
+    return {"success": True, "budgets": req.budgets}
+
+@app.get("/budget/{user_id}")
+def get_budget(user_id: str):
+    db = get_db()
+    doc = db.collection("budgets").document(user_id).get()
+    if not doc.exists:
+        return {"budgets": {}}
+    return {"budgets": doc.to_dict().get("budgets", {})}
+
 # SOCIAL FEED
 # ═══════════════════════════════════════════════════════════════════════════
 
